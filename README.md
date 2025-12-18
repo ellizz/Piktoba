@@ -46,5 +46,5 @@ This game contains references to:
 
 ## Built With
 
-• Ren'Py (Python)  
+• C#
 • Unity  
