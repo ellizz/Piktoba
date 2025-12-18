@@ -5,6 +5,13 @@ The game includes voice acting and light humor.
 
 ---
 
+## Download
+
+You can download the game here:  
+https://drive.google.com/drive/folders/1Hyb7nwkAbwES3dyUz-P8eqorSmzWJL6F?usp=sharing
+
+---
+
 ## Features
 
 The game includes the following:
